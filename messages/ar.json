@@ -1,0 +1,25 @@
+{
+  "HomePage": {
+    "title": "مرحبا",
+    "description": "تم اعداد التطبيق لدعم تعدد اللغات."
+  },
+  "FederationsPage": {
+    "title": "الاتحادات",
+    "description": "الاتحادات الوطنية والجمعيات الأعضاء."
+  },
+  "Navbar": {
+    "navAriaLabel": "التنقل الرئيسي",
+    "logoAlt": "شعار الكرة الطائرة الأفريقية",
+    "home": "الرئيسية",
+    "cavb": "CAVB",
+    "federations": "الاتحادات",
+    "formations": "التكوين",
+    "gallery": "المعرض",
+    "contact": "اتصل بنا",
+    "socialFacebook": "فيسبوك",
+    "socialInstagram": "إنستغرام",
+    "socialX": "إكس",
+    "socialYoutube": "يوتيوب",
+    "languageSwitcherLabel": "اللغة"
+  }
+}

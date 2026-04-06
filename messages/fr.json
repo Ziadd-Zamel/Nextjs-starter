@@ -1,0 +1,25 @@
+{
+  "HomePage": {
+    "title": "Bienvenue",
+    "description": "Votre application est maintenant configuree pour l'internationalisation."
+  },
+  "FederationsPage": {
+    "title": "Fédérations",
+    "description": "Fédérations nationales et associations membres."
+  },
+  "Navbar": {
+    "navAriaLabel": "Navigation principale",
+    "logoAlt": "Logo Volley Africain",
+    "home": "Accueil",
+    "cavb": "CAVB",
+    "federations": "Fédérations",
+    "formations": "Formations",
+    "gallery": "Galerie",
+    "contact": "Contact",
+    "socialFacebook": "Facebook",
+    "socialInstagram": "Instagram",
+    "socialX": "X",
+    "socialYoutube": "YouTube",
+    "languageSwitcherLabel": "Langue"
+  }
+}
