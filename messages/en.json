@@ -21,5 +21,14 @@
     "socialX": "X",
     "socialYoutube": "YouTube",
     "languageSwitcherLabel": "Language"
+  },
+  "Federation": {
+    "title": "Federations",
+    "zones": {
+      "zone1": "Zone 1: Mr Mustapha LEMOUCHI (Algeria)",
+      "zone2": "Zone 2: Dr Amadou SEYE (Senegal)",
+      "zone3": "Zone 3: Mr Sourakatou Ali YARO (Benin)"
+    },
+    "latest": "Latest"
   }
 }
